@@ -30,6 +30,8 @@ public class SaleSumDTO  implements Serializable {
     public Double getSum() {
         return sum;
     }
+    
+    
 
     public void setSum(Double sum) {
         this.sum = sum;
